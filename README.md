@@ -1,1 +1,1 @@
-# system_engineering-ops
+system_engineering-devops / 0x00-shell_basics
