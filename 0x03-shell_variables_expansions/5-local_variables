@@ -1,0 +1,3 @@
+#!/bin/bash
+# List all local variables
+set
